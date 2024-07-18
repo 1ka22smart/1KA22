@@ -1,0 +1,6 @@
+Form_Sepatu = 26, 26, 913, 468, Z, 52, 52, 939, 494, C
+Form_Transaksi = 104, 104, 395, 546, , 78, 78, 965, 520, C
+Module1 = 0, 0, 0, 0, C
+DataReportSepatu = 0, 0, 0, 0, C, 52, 52, 719, 515, C
+DataReportTransaksi = 0, 0, 971, 381, C, 0, 0, 1366, 768, C
+Form_Menu = 182, 182, 1060, 624, C, 157, 118, 721, 612, C
